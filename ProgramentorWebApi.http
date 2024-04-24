@@ -1,0 +1,6 @@
+@ProgramentorWebApi_HostAddress = http://localhost:5273
+
+GET {{ProgramentorWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
